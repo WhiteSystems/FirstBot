@@ -9,8 +9,8 @@ The Commands are
 #The config.json
 
 { 
-    "token": "ODQ3MDczNDMyMTQ3MDY2OTMx.YK4wnA.qqVelaebTLr35tYlUtLGehEXBbg", //Your Bot token
-    "news": "828945129087565825", // The output channel
+    "token": "YOURTOKEN", //Your Bot token
+    "news": "AAAA", // The output channel
     "prefix": ".", //Prefix
     "role": "NEWS" // Only this Role can execute the commands
 }
