@@ -1,0 +1,6 @@
+{ 
+    "token": "YOUR BOT TOKEN",
+    "news": "OUTPUT CHANNEL ID",
+    "prefix": ".",
+    "role": "THE ROLE NAME IN LETTERS"
+}
